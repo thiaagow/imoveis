@@ -1,0 +1,50 @@
+[22-Jun-2016 00:27:59] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'office958_cadmast'@'localhost' (using password: YES) in /home/offic958/public_html/sistema/class/BANCO.class.php on line 8
+[22-Jun-2016 00:27:59] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/offic958/public_html/sistema/class/BANCO.class.php on line 20
+[22-Jun-2016 00:27:59] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/offic958/public_html/sistema/class/BANCO.class.php on line 23
+[22-Jun-2016 00:28:05] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'office958_cadmast'@'localhost' (using password: YES) in /home/offic958/public_html/sistema/class/BANCO.class.php on line 8
+[22-Jun-2016 00:28:05] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/offic958/public_html/sistema/class/BANCO.class.php on line 163
+[22-Jun-2016 00:28:05] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/offic958/public_html/sistema/class/BANCO.class.php on line 163
+[22-Jun-2016 00:28:14] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'office958_cadmast'@'localhost' (using password: YES) in /home/offic958/public_html/sistema/class/BANCO.class.php on line 8
+[22-Jun-2016 00:28:14] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/offic958/public_html/sistema/class/BANCO.class.php on line 163
+[22-Jun-2016 00:28:14] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/offic958/public_html/sistema/class/BANCO.class.php on line 163
+[22-Jun-2016 00:28:29] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'office958_cadmast'@'localhost' (using password: YES) in /home/offic958/public_html/sistema/class/BANCO.class.php on line 8
+[22-Jun-2016 00:28:29] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/offic958/public_html/sistema/class/BANCO.class.php on line 134
+[22-Jun-2016 00:28:29] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/offic958/public_html/sistema/class/BANCO.class.php on line 137
+[22-Jun-2016 00:28:33] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'office958_cadmast'@'localhost' (using password: YES) in /home/offic958/public_html/sistema/class/BANCO.class.php on line 8
+[22-Jun-2016 00:28:33] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/offic958/public_html/sistema/class/BANCO.class.php on line 134
+[22-Jun-2016 00:28:33] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/offic958/public_html/sistema/class/BANCO.class.php on line 137
+[22-Jun-2016 00:28:35] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'office958_cadmast'@'localhost' (using password: YES) in /home/offic958/public_html/sistema/class/BANCO.class.php on line 8
+[22-Jun-2016 00:28:35] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/offic958/public_html/sistema/class/BANCO.class.php on line 20
+[22-Jun-2016 00:28:35] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/offic958/public_html/sistema/class/BANCO.class.php on line 23
+[22-Jun-2016 00:30:20] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 00:58:23] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:00:21] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:00:45] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:01:31] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 62
+[22-Jun-2016 01:01:31] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:01:56] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 62
+[22-Jun-2016 01:01:56] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:02:26] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 62
+[22-Jun-2016 01:02:26] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:02:39] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 62
+[22-Jun-2016 01:02:39] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:23:11] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 62
+[22-Jun-2016 01:23:11] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:24:26] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:24:33] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:25:08] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:25:24] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:33:41] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:34:59] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 01:36:10] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 09:25:12] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 12:14:03] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 12:14:11] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 14:18:50] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 14:19:28] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 14:25:01] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[22-Jun-2016 14:25:52] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[24-Jun-2016 09:40:20] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[24-Jun-2016 11:23:15] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[24-Jun-2016 11:24:33] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80
+[24-Jun-2016 18:34:38] PHP Warning:  Invalid argument supplied for foreach() in /home/offic958/public_html/sistema/containers/inserir.php on line 80

@@ -1,0 +1,3 @@
+[22-Jun-2016 00:28:03] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'office958_cadmast'@'localhost' (using password: YES) in /home/offic958/public_html/sistema/class/BANCO.class.php on line 8
+[22-Jun-2016 00:28:03] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/offic958/public_html/sistema/class/BANCO.class.php on line 134
+[22-Jun-2016 00:28:03] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/offic958/public_html/sistema/class/BANCO.class.php on line 137
